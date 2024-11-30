@@ -61,3 +61,9 @@ Press Q to exit the detection loop.
 🌟 Smart Surveillance: Detect and track objects in security feeds.
 🌟Retail Analytics: Monitor customer activity in real time.
 🌟Autonomous Systems: Enhance perception in robots and drones.
+
+this is the video demo:
+
+
+https://github.com/user-attachments/assets/c1442ac2-aee5-4087-972a-638ab7c6746c
+
