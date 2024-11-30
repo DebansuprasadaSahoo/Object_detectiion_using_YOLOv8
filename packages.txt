@@ -1,1 +1,1 @@
-libGL
+ldconfig -p | grep libGL.so.1
