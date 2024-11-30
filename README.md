@@ -4,7 +4,7 @@ Real-Time Object Detection with YOLOv8 and OpenCV 🚀🎥
 ⚠️ DISCLAMER :-
 webcam not working, cause-
 When deploying to Streamlit Cloud, webcam or device access can be problematic because it's typically not supported on cloud platforms for security and privacy reasons.
-frontend code - https://lnkd.in/gCk8Bpji (Try this frontend)
+frontend code - [https://lnkd.in/gCk8Bpji ](https://github.com/DebansuprasadaSahoo/Object_detectiion_using_YOLOv8/blob/main/app.py)(Try this frontend)
 
 In this project, I built a real-time object detection system using the powerful YOLOv8 model and OpenCV. The system processes live webcam footage, identifies objects in the frame, and overlays bounding boxes with labels and confidence scores. Here's how it works:
 
